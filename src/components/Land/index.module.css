@@ -1,0 +1,17 @@
+.land {
+    border: 1px solid #999;
+    background: rgb(163, 98, 14);
+    height: 120px;
+    width: 80px;
+    text-align: center;
+    display: inline-block;
+}
+
+.mouse_on {
+    border: 1px solid #ad1b1b;
+    background: rgb(11, 245, 116);
+    height: 120px;
+    width: 80px;
+    text-align: center;
+    display: inline-block;
+}

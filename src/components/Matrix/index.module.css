@@ -1,0 +1,20 @@
+.matrix {
+    border: 1px solid #999;
+    background: rgb(44, 101, 224);
+    height: 620px;
+    width: 500px;
+    display:inline-block;
+    position:relative;
+}
+
+.matrix_row_group {
+    position:absolute;
+    right: 0px;
+    bottom: 0px;         
+}
+
+.matrix_row{
+    clear: both;
+    content: "";
+    display: table;
+}
