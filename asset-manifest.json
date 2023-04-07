@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/king-of-veggies/static/css/main.254ef95e.css",
+    "main.js": "/king-of-veggies/static/js/main.d1ad3e7b.js",
+    "index.html": "/king-of-veggies/index.html",
+    "main.254ef95e.css.map": "/king-of-veggies/static/css/main.254ef95e.css.map",
+    "main.d1ad3e7b.js.map": "/king-of-veggies/static/js/main.d1ad3e7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.254ef95e.css",
+    "static/js/main.d1ad3e7b.js"
+  ]
+}
